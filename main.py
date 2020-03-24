@@ -120,5 +120,5 @@ if flag==1:
 
 button1.grid(row=6,column=1)
 label2.grid(row=7)
-master.mainloop() 
+#master.mainloop() 
 file1.close()
