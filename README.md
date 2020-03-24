@@ -8,6 +8,7 @@ copy and paste the following command in your terminal:
  `pip install tkinter`
 ## Usage
 copy and paste the following command in terminal : 
+
 `git clone https://github.com/lonewolf-X/GUI-development-application.git`
 
 ## Screenshots
